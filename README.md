@@ -1,5 +1,4 @@
-
-- 😄 Pronouns: HE
+- MOULIC METHOD
 
 <!---
 Ljay1114/Ljay1114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
